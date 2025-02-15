@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle bug in PHP related to floating-point number comparisons. The `foo()` function illustrates how direct comparisons can fail due to the inherent limitations of floating-point representation. The solution shows how to use a tolerance-based comparison to address the issue.
